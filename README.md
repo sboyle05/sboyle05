@@ -22,6 +22,7 @@ Exciting projects that merge my passion for coding with food, travel, different 
 ⚡ Fun facts:
 I've lived in China, Australia, and Germany 🌐.
 I've a Bachelor's in Counter Terrorism, Security, and Intelligence 🎓.
+I've also got a degree in winemaking and grape growing aka Enology and Viticulture 🍇🍷
 I'm a proud graduate of App Academy's rigorous 6-month full-time full-stack software engineering bootcamp 🎉.
 When not immersed in coding, you can find me experimenting with global cuisines 🌮🍣🍝 or traveling with my family 👨‍👩‍👧‍👦.
 
