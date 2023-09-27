@@ -8,7 +8,7 @@ class Sam:
         self.languages = ["Javascript", "Python"]
         self.frameworks = ["React", "Redux", "Flask", "Express"]
         self.web_technologies = ["HTML", "CSS"]
-        self.hobbies = ["Exploring International Cuisines", "Traveling", "Spending Time with Family"]
+        self.hobbies = ["Spending Time with Family", "Exploring International Cuisines", "Traveling", "Scuba Diving", "Skiing", "Skydiving", "Golf", "Video Games"]
 ```
 🧑‍💻 Currently working on:
 Solving intriguing programming puzzles 🧩 and further honing my skills in software development. Starting with making a fun site about my son!
