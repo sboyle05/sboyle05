@@ -28,4 +28,5 @@ When not immersed in coding, you can find me experimenting with global cuisines 
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sboyle05&show_icons=true&theme=radical)
 
+![Weather](https://img.shields.io/badge/dynamic/json?label=Temperature&query=$.hourly.temperature_2m[0]&url=https://api.open-meteo.com/v1/forecast?latitude=39.5144&longitude=-31.2095&hourly=temperature_2m,weathercode)
 
