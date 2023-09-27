@@ -9,7 +9,7 @@ class Sam:
         self.frameworks = ["React", "Redux", "Flask", "Express"]
         self.web_technologies = ["HTML", "CSS"]
         self.hobbies = ["Exploring International Cuisines", "Traveling", "Spending Time with Family"]
-
+```
 🧑‍💻 Currently working on:
 Solving intriguing programming puzzles 🧩 and further honing my skills in software development. Starting with making a fun site about my son!
 
