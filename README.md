@@ -26,5 +26,5 @@ I've also got a degree in winemaking and grape growing aka Enology and Viticultu
 I'm a proud graduate of App Academy's rigorous 6-month full-time full-stack software engineering bootcamp 🎉.
 When not immersed in coding, you can find me experimenting with global cuisines 🌮🍣🍝 or traveling with my family 👨‍👩‍👧‍👦.
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sboyle05&show_icons=true&theme=radical)
+<!--![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sboyle05&show_icons=true&theme=radical) !-->
 
