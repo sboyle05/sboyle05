@@ -14,7 +14,7 @@ class Sam:
 Solving intriguing programming puzzles 🧩 and further honing my skills in software development. Starting with making a fun site about my son!
 
 🌱 Currently learning:
-Diving deeper into software engineering by starting to learn C++
+Diving deeper into software engineering by starting to learn JAVA
 
 👯 Looking to collaborate on:
 Exciting projects that merge my passion for coding with food, travel, different cultures, photoshop!
