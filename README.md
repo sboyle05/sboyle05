@@ -11,7 +11,7 @@ class Sam:
         self.hobbies = ["Spending Time with Family", "Exploring International Cuisines", "Traveling", "Scuba Diving", "Skiing", "Skydiving", "Golf", "Video Games"]
 ```
 🧑‍💻 Currently working on:
-Solving intriguing programming puzzles 🧩 and further honing my skills in software development. Starting with making a fun site about my son!
+Solving intriguing programming puzzles 🧩 and further honing my skills in software development.
 
 🌱 Currently learning:
 Diving deeper into software engineering by starting to learn JAVA
